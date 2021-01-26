@@ -1,0 +1,1 @@
+copy FiddlerSetup.rename FiddlerSetup.exe
